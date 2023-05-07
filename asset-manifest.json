@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/allantan/static/css/main.ed52aaff.css",
+    "main.js": "/allantan/static/js/main.1870db89.js",
+    "static/media/pfp.jpg": "/allantan/static/media/pfp.4fa638b3f2f3460704f7.jpg",
+    "static/media/linkedin.png": "/allantan/static/media/linkedin.ffe9ad9e36324ff19f7b.png",
+    "static/media/AllanTan_Resume.pdf": "/allantan/static/media/AllanTan_Resume.57574eb5bbe1107af2fa.pdf",
+    "index.html": "/allantan/index.html",
+    "main.ed52aaff.css.map": "/allantan/static/css/main.ed52aaff.css.map",
+    "main.1870db89.js.map": "/allantan/static/js/main.1870db89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed52aaff.css",
+    "static/js/main.1870db89.js"
+  ]
+}
